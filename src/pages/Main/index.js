@@ -92,7 +92,7 @@ export default function Main() {
     <Container>
       <h1>
         <FaGithub size={25} />
-        Meus repositorios
+        My Repositories
       </h1>
 
       <Form onSubmit={handleSubmit}>
