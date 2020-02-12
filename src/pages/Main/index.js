@@ -98,7 +98,7 @@ export default function Main() {
       <Form onSubmit={handleSubmit}>
         <input
           type="text"
-          placeholder="Adicionar Repositórios"
+          placeholder="Add Repositories"
           value={newRepo}
           onChange={handleinputChange}
           required
