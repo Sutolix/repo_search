@@ -7,8 +7,8 @@
   RepoSearch
 </h1>
 
-#### Uma aplicação para pesquisar por repositórios do Github.
+#### An application to search for Github repositories.
 
-- Digite o nome do usuário e o repositório o qual deseja ver informaões sobre. Exemplo: facebook/react
-- O repositório será adicionado a lista de pesquisados, clicando no ícone ao lado abrem-se os detalhes sobre.
-- Os detalhes incluem linguagem usada, descrição e issues abertas e fechadas.
+- Enter the username and the repository you want to see information about. Example: facebook/react
+- The repository will be added to the list of searched, clicking on the icon on the right will open the details about.
+- Details include language used, description and open and closed issues.
