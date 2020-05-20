@@ -9,6 +9,6 @@
 
 #### An application to search for Github repositories.
 
-- Enter the username and the repository you want to see information about. Example: facebook/react
+- Enter the username and the repository you want to see information about. Example: <b>facebook/react</b>
 - The repository will be added to the list of searched, clicking on the icon on the right will open the details about.
 - Details include language used, description and open and closed issues.
